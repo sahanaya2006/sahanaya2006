@@ -5,7 +5,7 @@
 
 </p> 
 <div align="center">
-  <img src="https://github.com/sahanaya2006/maduwa2006-Profile/blob/main/Picsart_23-01-31_16-42-48-970.jpg?raw=true" alt="Your Profile Picture" width="200" height="200">
+  <img src="https://avatars.githubusercontent.com/u/151435240?v=4" alt="Your Profile Picture" width="200" height="200">
 
   <br>
  
