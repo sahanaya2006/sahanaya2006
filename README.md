@@ -1,6 +1,6 @@
 </a>
 
-![My card name](https://cardivo.vercel.app/api?name=MASTER%20-%20MIND&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://github.com/sahanaya2006/sahanaya2006/blob/main/REDGANG.jpegv=4&backgroundColor=%23ecf0f1&instagram=___sahan___maduwa___&linkedin=___sahan_______maduwa___&github=sahanaya2006&twitter=@MASTER__MIND&pattern=leaf&colorPattern=%23eaeaea)
+![My card name](https://cardivo.vercel.app/api?name=MASTER%20-%20MIND&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://github.com/sahanaya2006/sahanaya2006/blob/main/REDGANG.jpeg=4&backgroundColor=%23ecf0f1&instagram=___sahan___maduwa___&linkedin=___sahan_______maduwa___&github=sahanaya2006&twitter=@MASTER__MIND&pattern=leaf&colorPattern=%23eaeaea)
 
 <div align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=My+Name+is+Master_Mind;New+Beginning+Developer;Please+Support+Me;Please+Contact+Me" alt="Typing SVG" /></a>   
